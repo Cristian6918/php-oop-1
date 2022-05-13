@@ -1,0 +1,22 @@
+*{
+    box-sizing:border-box;
+    margin:0;
+}
+h1{
+    text-align:center;
+}
+
+.films-container{
+    width:80%;
+    margin:auto;
+    display: flex;
+    justify-content:center;
+    flex-wrap: wrap;
+    
+}
+
+.film-card{
+    width:50%;
+    text-align:left;
+    margin-top:50px;
+}
